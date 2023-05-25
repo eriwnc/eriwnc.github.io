@@ -8,4 +8,4 @@ author: Eri
 intro: This is the introduction text for this post. It appears large and bold at the top of the post
 intro_image: /img/home.jpg
 intro_image_ratio: is-16by9
-# Here is my blog
+# Here is my blog 
